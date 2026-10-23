@@ -20,3 +20,7 @@ The matcha image on the source menu also shows a second, brown sugar drink. The 
 
 - **Peach Fruit Tea** — `assets/drinks/peach-photo.jpg`
   - Image source: https://res.cloudinary.com/ddhetmqtt/image/upload/c_lfill,h_220/dpr_2.0/q_auto/f_auto/v1/menu-image/r4azuqpt1hb8cpevhasl.jpg?_a=BATFIJAA0
+
+## Rolled ice cream
+
+`assets/rolled-ice-cream.png` — User-supplied photograph. Josselly confirmed that it was taken at The Whale Tea. No photographer attribution was supplied. Displayed unchanged; current flavors and availability are not assumed from the photo.
