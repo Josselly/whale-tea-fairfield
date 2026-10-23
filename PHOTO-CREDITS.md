@@ -13,4 +13,10 @@ Source menu: https://order.snackpass.co/The-Whale-Tea-(Fairfield-1700-Post-Rd)-6
 - **Strawberry Fresh Milk/Milk Tea** — `assets/drinks/strawberry-photo.jpg`
   - Image source: https://res.cloudinary.com/ddhetmqtt/image/upload/c_lfill,h_220/dpr_2.0/q_auto/f_auto/v1/menus-s3/The%2520Whale%2520Tea/1573075982997.png?_a=BATFIJAA0
 
-The matcha image on the source menu also shows a second, brown sugar drink. Mango and peach cards retain labeled illustrations because the available source images are lower quality.
+The matcha image on the source menu also shows a second, brown sugar drink. The opening collage uses the brown sugar, strawberry, and Whale Crystal photos. The mango and peach cards also use the original source-menu images; source quality varies.
+
+- **Mango Fruit Tea** — `assets/drinks/mango-photo.jpg`
+  - Image source: https://res.cloudinary.com/ddhetmqtt/image/upload/c_lfill,h_220/dpr_2.0/q_auto/f_auto/v1/menu-image/jgf6gc3blltrptuxbgdy.jpg?_a=BATFIJAA0
+
+- **Peach Fruit Tea** — `assets/drinks/peach-photo.jpg`
+  - Image source: https://res.cloudinary.com/ddhetmqtt/image/upload/c_lfill,h_220/dpr_2.0/q_auto/f_auto/v1/menu-image/r4azuqpt1hb8cpevhasl.jpg?_a=BATFIJAA0
