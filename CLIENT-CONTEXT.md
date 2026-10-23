@@ -15,7 +15,7 @@ The local menu includes fresh milk and milk tea, Whale Crystal drinks (identifie
 ## Audience and brand interpretation
 The site's intended audience is local tea customers and visitors looking for a drink, store information, or an official ordering route. Positioning it as a convenient neighborhood tea stop is a design interpretation, not verified demographic research. No specific ages, customer statistics, testimonials, or business partnerships are claimed.
 
-Blue branding and the supplied storefront's lettering inform the existing cream-and-blue design. The supplied logo and storefront photo remain in use. Drink artwork is original illustration, not product photography, and is labeled accordingly.
+Blue branding and the supplied storefront's lettering inform the existing cream-and-blue design. The supplied logo and storefront photo remain in use. Hero and fruit-tea artwork are illustrations. Four milk/Whale Crystal cards use original menu photos from the user-supplied Snackpass page, credited in PHOTO-CREDITS.md and on the page.
 
 ## Changes
 - Exact required educational disclaimer appears at the very top and remains visible while scrolling.
